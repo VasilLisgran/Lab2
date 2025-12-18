@@ -410,7 +410,7 @@ public class Lab4 {
             }
         }
 
-        System.out.println(numbers[closestInd]);
+        System.out.println(numbers[closestInd] + ", " + (closestInd+1));
     }
 }
 ```
